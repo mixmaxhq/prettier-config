@@ -1,0 +1,24 @@
+{
+  "name": "@mixmaxhq/prettier-config",
+  "version": "1.0.0",
+  "description": "The prettier config that Mixmax uses",
+  "main": "config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "mixmax"
+  ],
+  "author": "Eli Skeggs <eli@mixmax.com> (https://eliskeggs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/prettier-config#readme"
+}
