@@ -4,6 +4,7 @@
   "description": "The prettier config that Mixmax uses",
   "main": "config.json",
   "scripts": {
+    "ci": "node -e 'require(\"./config.json\")'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
