@@ -8,7 +8,7 @@
     "ci:commitlint": "commitlint-jenkins --pr-only",
     "lint": "echo \"Error: no lint specified\" && exit 1",
     "prepublishOnly": "if [ \"$CI\" = '' ]; then node -p 'JSON.parse(process.env.npm_package_config_manualPublishMessage)'; exit 1; fi",
-    "semantic-release": "SEMANTIC_COMMITLINT_SKIP=287fe8b48ec7e371ecf927ebcbdd9e5e3394ae3d,4dc5f8dc5dda5bfcd7bbb00698033e1b548c1959,d906c31da7facdc041fb0b20cc06ba13d4f55357,e8835e7e4f73c50e18faaf1e333b3c46bee59f77 semantic-release",
+    "semantic-release": "SEMANTIC_COMMITLINT_SKIP=e3faddd387e6d6d7e991358880c5b5ee9fff9bb2,95d7dacf9a0004f5388848e45fc6e3f856229cc2 semantic-release",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
