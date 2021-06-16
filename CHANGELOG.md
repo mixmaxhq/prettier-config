@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/mixmaxhq/prettier-config/compare/v1.0.0...v1.0.1) (2021-06-16)
+
+
+### Bug Fixes
+
+* try to upgrade version to 1.1.0 ([8a8a5e0](https://github.com/mixmaxhq/prettier-config/commit/8a8a5e0f7bfc4cacfe7301ec84c313549db37861))
+
 ## 1.0.0 (2021-06-16)
 
 
