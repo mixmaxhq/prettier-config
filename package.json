@@ -26,6 +26,9 @@
     "url": "https://github.com/mixmaxhq/prettier-config/issues"
   },
   "homepage": "https://github.com/mixmaxhq/prettier-config#readme",
+  "peerDependency": {
+    "prettier": "^2.4.0"
+  },
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@mixmaxhq/commitlint-jenkins": "^1.4.2",
