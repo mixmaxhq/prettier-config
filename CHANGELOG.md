@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/mixmaxhq/prettier-config/compare/v1.0.2...v1.1.0) (2022-05-23)
+
+
+### Features
+
+* set `bracketSameLine` to `false` ([0c48750](https://github.com/mixmaxhq/prettier-config/commit/0c4875087838dd99e4271c984efba0d4ac5fedfc))
+
 ### [1.0.2](https://github.com/mixmaxhq/prettier-config/compare/v1.0.1...v1.0.2) (2021-09-09)
 
 
