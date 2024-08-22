@@ -17,6 +17,12 @@
       "options": {
         "parser": "typescript"
       }
+    },
+    {
+      "files": "package.json",
+      "options": {
+        "endOfLine": "auto"
+      }
     }
   ]
 }
